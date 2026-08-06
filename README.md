@@ -23,9 +23,6 @@ Tenho experiência com desenvolvimento e manutenção de aplicações web,
 implementação de funcionalidades, APIs REST, dashboards, relatórios  
 e integração entre front-end, back-end e banco de dados.
 
-Atualmente, também estou ampliando meus conhecimentos em  
-**C# e desenvolvimento com .NET**.
-
 ---
 
 ## `> tecnologias`
@@ -43,7 +40,6 @@ Atualmente, também estou ampliando meus conhecimentos em
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Banco de dados e ferramentas
 
