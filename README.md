@@ -52,39 +52,55 @@ e integração entre front-end, back-end e banco de dados.
 
 ## `> projetos_em_destaque`
 
-### 🐾 PetFeeder
+### 🐶 PetFeeder — Alimentador Automático com IoT e IA
 
-Sistema web para gerenciamento de um alimentador automático de pets,  
-com controle de alimentação e integração entre front-end e back-end.
+Sistema inteligente de alimentação automática para pets, integrando
+**aplicativo mobile, backend, IoT e inteligência artificial**.
 
-**Tecnologias:** React, TypeScript e Node.js.
+O projeto permite controlar alimentações manualmente, criar agendamentos,
+acompanhar o histórico e receber recomendações com base no consumo do pet.
+A parte IoT utiliza um ESP32 conectado a sensor de peso e motor para
+automatizar a liberação da ração.
+
+**Tecnologias:** React Native, TypeScript, Node.js, Express, MySQL, ESP32 e IoT.
 
 [Ver repositório](https://github.com/cmbrunaa/pet)
 
+
 ---
 
-### ⚙️ ValidaFlow — Landis+Gyr
+### ⚙️ ValidaFlow — First-Off Landis+Gyr
 
-Sistema desenvolvido como Projeto Integrador Extensionista em parceria  
-com a Landis+Gyr para automatizar a validação de configurações de medidores.
+Sistema de validação automática de medidores desenvolvido como
+**Projeto Integrador Extensionista em parceria com a Landis+Gyr**.
 
-A aplicação realiza leitura de arquivos XML, comparação de parâmetros,  
-registro de histórico e geração de relatórios.
+A aplicação automatiza a conferência de configurações por meio da leitura
+de arquivos XML e aplicação de regras de negócio, identificando divergências
+e registrando os resultados para rastreabilidade.
 
-**Tecnologias:** Python.
+Inclui autenticação por perfis, histórico de validações, dashboard com
+indicadores e exportação de relatórios.
+
+**Tecnologias:** Python, SQLite, bcrypt, XML e CSV.
 
 [Ver repositório](https://github.com/cmbrunaa/Landis-Gyr)
 
+
 ---
 
-### 🎮 Backlogd
+### 🎮 Backlogd — Gerenciador de Backlog de Jogos
 
-Aplicação para gerenciamento de jogos, backlog e avaliações,  
-com busca de títulos por meio da integração com a RAWG API.
+Aplicação web desenvolvida com **Django**, inspirada em plataformas como
+Backloggd e Letterboxd, para organização e acompanhamento de jogos.
 
-**Tecnologias:** Python, Django, SQLite e Tailwind CSS.
+Permite pesquisar títulos através da **RAWG API**, adicioná-los ao backlog,
+favoritar, avaliar e escrever reviews. O sistema também possui autenticação
+de usuários, filtros e tradução automática das descrições dos jogos.
+
+**Tecnologias:** Python, Django, SQLite, Tailwind CSS, RAWG API e Deep Translator.
 
 [Ver repositório](https://github.com/cmbrunaa/backlogd)
+
 
 ---
 
