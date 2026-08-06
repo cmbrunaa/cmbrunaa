@@ -1,14 +1,12 @@
 <div align="center">
 
-# Olá, eu sou a Bruna! 👋
+# 👾 Olá, eu sou a Bruna!
 
 ### Desenvolvedora de Software
 
-Construindo aplicações completas com foco em desenvolvimento web,  
-interfaces intuitivas, APIs e integração com bancos de dados.
+Desenvolvo aplicações unindo **front-end, back-end, banco de dados e integrações**.
 
-[Portfólio](https://brunacandido.vercel.app) •
-[LinkedIn](https://www.linkedin.com/in/brunamcandido)
+[🌐 Portfólio](https://brunacandido.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/brunamcandido)
 
 </div>
 
@@ -19,18 +17,22 @@ interfaces intuitivas, APIs e integração com bancos de dados.
 Sou profissional de Tecnologia da Informação, com formação em  
 **Análise e Desenvolvimento de Sistemas em fase de conclusão**.
 
-Tenho experiência com desenvolvimento e manutenção de aplicações web,  
-implementação de funcionalidades, APIs REST, dashboards, relatórios  
+Tenho experiência com desenvolvimento e manutenção de aplicações web,
+implementação de funcionalidades, APIs REST, dashboards, relatórios
 e integração entre front-end, back-end e banco de dados.
+
+Também desenvolvo projetos acadêmicos e pessoais explorando diferentes
+áreas da tecnologia, como **desenvolvimento web, mobile, IoT e automação**.
 
 ---
 
 ## `> tecnologias`
 
-### Front-end
+### Front-end & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -38,12 +40,15 @@ e integração entre front-end, back-end e banco de dados.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### Banco de dados e ferramentas
+### Banco de dados & Ferramentas
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -92,18 +97,17 @@ integração com a RAWG API para busca automática de jogos.
 
 [Ver projeto →](https://github.com/cmbrunaa/backlogd)
 
-
----
-
-## `> contato`
-
-- Portfólio: [brunacandido.vercel.app](https://brunacandido.vercel.app)
-- LinkedIn: [linkedin.com/in/brunamcandido](https://www.linkedin.com/in/brunamcandido)
-- GitHub: [github.com/cmbrunaa](https://github.com/cmbrunaa)
-
 ---
 
 <div align="center">
+
+### `> vamos_conversar?`
+
+[🌐 Portfólio](https://brunacandido.vercel.app) •
+[💼 LinkedIn](https://www.linkedin.com/in/brunamcandido) •
+[📧 Email](mailto:SEU_EMAIL_AQUI)
+
+<br>
 
 `Obrigada por visitar meu perfil!`
 
