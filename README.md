@@ -54,52 +54,43 @@ e integração entre front-end, back-end e banco de dados.
 
 ### 🐶 PetFeeder — Alimentador Automático com IoT e IA
 
-Sistema inteligente de alimentação automática para pets, integrando
+Sistema inteligente de alimentação automática para pets integrando
 **aplicativo mobile, backend, IoT e inteligência artificial**.
 
-O projeto permite controlar alimentações manualmente, criar agendamentos,
-acompanhar o histórico e receber recomendações com base no consumo do pet.
-A parte IoT utiliza um ESP32 conectado a sensor de peso e motor para
-automatizar a liberação da ração.
+Permite alimentação manual e agendada, histórico, monitoramento do recipiente
+e recomendações baseadas no consumo do pet, com automação através de ESP32.
 
-**Tecnologias:** React Native, TypeScript, Node.js, Express, MySQL, ESP32 e IoT.
+**Stack:** React Native • TypeScript • Node.js • Express • MySQL • ESP32
 
-[Ver repositório](https://github.com/cmbrunaa/pet)
-
+[Ver projeto →](https://github.com/cmbrunaa/pet)
 
 ---
 
 ### ⚙️ ValidaFlow — First-Off Landis+Gyr
 
-Sistema de validação automática de medidores desenvolvido como
-**Projeto Integrador Extensionista em parceria com a Landis+Gyr**.
+Sistema desenvolvido como **Projeto Integrador Extensionista em parceria
+com a Landis+Gyr** para automatizar a validação de configurações de medidores.
 
-A aplicação automatiza a conferência de configurações por meio da leitura
-de arquivos XML e aplicação de regras de negócio, identificando divergências
-e registrando os resultados para rastreabilidade.
+Realiza leitura de XML, aplicação de regras de negócio, identificação de
+divergências, histórico de validações, dashboard e geração de relatórios.
 
-Inclui autenticação por perfis, histórico de validações, dashboard com
-indicadores e exportação de relatórios.
+**Stack:** Python • SQLite • XML • bcrypt
 
-**Tecnologias:** Python, SQLite, bcrypt, XML e CSV.
-
-[Ver repositório](https://github.com/cmbrunaa/Landis-Gyr)
-
+[Ver projeto →](https://github.com/cmbrunaa/Landis-Gyr)
 
 ---
 
 ### 🎮 Backlogd — Gerenciador de Backlog de Jogos
 
-Aplicação web desenvolvida com **Django**, inspirada em plataformas como
-Backloggd e Letterboxd, para organização e acompanhamento de jogos.
+Aplicação web inspirada em plataformas como Backloggd e Letterboxd para
+organizar, avaliar e acompanhar jogos em um backlog pessoal.
 
-Permite pesquisar títulos através da **RAWG API**, adicioná-los ao backlog,
-favoritar, avaliar e escrever reviews. O sistema também possui autenticação
-de usuários, filtros e tradução automática das descrições dos jogos.
+Possui autenticação, CRUD, avaliações, reviews, favoritos, filtros e
+integração com a RAWG API para busca automática de jogos.
 
-**Tecnologias:** Python, Django, SQLite, Tailwind CSS, RAWG API e Deep Translator.
+**Stack:** Python • Django • SQLite • Tailwind CSS • RAWG API
 
-[Ver repositório](https://github.com/cmbrunaa/backlogd)
+[Ver projeto →](https://github.com/cmbrunaa/backlogd)
 
 
 ---
